@@ -1,0 +1,17 @@
+{
+    "name": "FB Load All",
+    "version": "1.0",
+    "description": "load all comments/older posts",
+    "manifest_version" : 2,
+    "permissions": [
+  		"http://*.facebook.com/*", 
+    	"https://*.facebook.com/*",
+    	"tabs",
+    	"contextMenus"
+    ],
+  	"background" : {
+  		"scripts": [ "async.js", "background.js" ],
+  		"persistent": false
+  	},
+  	"incognito": "split"
+}

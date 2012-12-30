@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "fb-loadall", "fb-loadall.mdproj", "{CE2FEC39-3B7E-40C1-B940-61B6074CA2F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE2FEC39-3B7E-40C1-B940-61B6074CA2F9}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{CE2FEC39-3B7E-40C1-B940-61B6074CA2F9}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = fb-loadall.mdproj
+	EndGlobalSection
+EndGlobal
